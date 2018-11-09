@@ -1,28 +1,64 @@
-POSITION SUMMARY
-•        This role will report into the Cloud Shard Services function within Global Consumer Bank Chief Technology Office (CTO), Development Technology and Process organization. This role will be responsible for engineering and deploying highly scalable and reusable cloud native shared services globally. This includes incorporating forward looking and emerging patterns and frameworks to build cloud native software translating the usage as reusable standards that will be consumed by multiple development teams
- 
-Key Responsibilities
-•        Define and maintain application/design development patterns used in the next generation application reference architecture
-•        Engineer the frameworks and services to be globally scalable and reusable across different regions, lines of businesses and channels
-•        Manage the deployment of foundational shared services across regions and ensure performance, runtime scale with focus on optimal cost
-•        Evolve the cloud native development patterns with emerging standards, practices and platform offerings
-Qualifications
 
-•        7+ years of experience in application development / engineering within financial services or a related industry
-•        Hands-on experience in using cloud technologies like Cloud Foundry / Docker. 
-•        Extensive experience in Java/J2EE development with expertise in Spring boot, spring cloud services and frameworks
-•        Expertise in micro services Patterns and Design.
-•        Knowledge of DB technologies SQL and NoSQL and distributed cache / data grids 
-•        Experience in using CI/CD tools - Maven, Jenkins, RTC, SVN/GIT
-•        Understand OWASP 10 and standard security practices
+PRINCIPAL RESPONSIBILITIES: 
+
+
+• Construct innovative solutions, tools and frameworks for Global Investments via improved data capture  and  efficient programming 
+• Constantly improve and maintain data sets to successfully identify, integrate and execute innovation initiatives
+• Solve key challenges with data linkage and digitization by exploring opportunities in disruptive new technology 
+• Employ data science to unlock opportunities for Citi and our clients
+• Grow a data-centric culture  
+• Maximize visualization and analytical insights using both internal and third party sources
+• Work closely with internal and external partners to ensure timely and accurate results that drive the business
+• Deliver big data analytics from a data science and data engineering perspective (expertise in data manipulation, visualisation, building and optimizing classifiers using machine learning and deep-learning based techniques
+• Ensuring the completeness and comprehensiveness of data structure by integrating the sources for newly identified data points
+• Design, develop, and scripts to import, modify and enhance data to identify client opportunities
+• Consistently follow and support regulatory policies
+
  
-The successful candidate will possess the following leadership/personal qualities:
-•             Be creative, energetic and passionate, driven by the desire to achieve a world-class standard of performance and exceptional customer experience. 
-•             Be an intelligent risk taker, someone who challenges the status quo, operates across boundaries and seeks win-win outcomes. 
-•             Possess uncompromising ethics, unwavering integrity and the confidence and conviction to live and uphold the values of Citi.
+
+V1234
+
  
-EDUCATION:
-•             Bachelor degree in computer science, information technology, software engineering or a related field.
-•             Master’s degree Preferred
+
+
+
+Qualifications
+ 
+
+EXPERIENCE: 
+
+
+• Knowledge of Capital Markets and Managed Investment products including derivatives and alternative investments. 
+• Extensive years of experience in product related quantitative analytical roles
+• Strong programming skills to apply to data science / engineering projects, including:
+    o Extensive experience with analytical tools, machine learning / AI languages and algorithms (e.g., Python, MatLab, R, Julia, SQL, etc)
+    o Demonstrable knowledge and application of machine learning libraries and repositories (e.g., TensorFlow, Hadoop, Hive, Go, Sklearn, Spark preferred)
+• Advanced knowledge of experimentation and statistical methods
+• Demonstrable domain expertise in product metric identification, improving data quality, experimentation design and execution. 
+• Familiarity with AWS, GCP, Azure or similar platforms
+• Background in innovation including design thinking, prototyping and also have solid commercial awareness
+• Strong organizational skills with the ability to prioritize, multitask and adapt to changing priorities 
+• Strong attention to detail and demonstrated ability to produce high quality, accurate work: your work will directly impact the advice we give to our clients!
+• Strong written / verbal communication skills to provide insights clearly and effectively to stakeholders (visualization and storytelling skills)
+• Can-do attitude, sense of ownership and a team-player approach.
+• Client Service oriented with the ability to strengthen relationships across Operations, Technology, Global Investments and other partners, working together to deepen client relationships
+• Strong Business English skills required
+• Quantitative background in in a technical field with a Graduate degree (Computer Science, Engineering, Statistics, Math, or related disciplines)
+
+ 
+
+
+Desirable: 
+
+
+• Any additional languages
+• Knowledge of Modern Portfolio Theory, risk analytics, financial markets and investment strategies
+
+ 
+
+ 
+
+Exceptional candidates who do not meet these criteria may be considered for the role provided they have the necessary skills and experience.
+
 
 
